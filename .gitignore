@@ -1,0 +1,28 @@
+# Python
+
+**pycache**/
+*.pyc
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Virtual Environment
+
+venv/
+.env
+
+# Dataset
+
+dataset/*.zip
+dataset/*.mp4
+dataset/FaceForensics++_C23/
+
+# Saved Models
+
+*.h5
+
+# OS Files
+
+.DS_Store
+Thumbs.db
